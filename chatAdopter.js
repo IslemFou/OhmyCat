@@ -41,20 +41,3 @@ function ajoutMessage(message) {
   p.style.backgroundColor = "green";
   divContain.append(p);
 }
-
-// console.log("erreur");
-//         let p = document.createElement("p");
-//         p.textContent = "Ce champ n'est pas valide";
-//         p.id = "errormsg";
-//         //ajout de la classe error
-//         console.log(p);
-
-//         p.setAttribute('class','error');
-//         raison.parentNode.append(p);
-
-// console.log("ok");
-// divForm.style.display = "none";
-// divContain.style.display = "block";
-
-// let div = document.createElement("div");
-// div.innerText = "Votre demande a bien été prise en compte";
